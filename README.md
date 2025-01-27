@@ -1,3 +1,3 @@
 # Java_School_Advanced
 
-上級
+Java上級講座
